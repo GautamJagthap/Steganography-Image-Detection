@@ -6,10 +6,20 @@ This repository tracks the research and development progress of our internship p
 
 Steganography is the practice of concealing messages or information within digital media. This research aims to detect and classify such hidden content in images using advanced machine learning models. The project is part of an ongoing internship under the guidance of the [Your Organization/Institution Name].
 
+## Supervisor
+- **Dr. Arun Kumar**
+## Co-Supervisor
+- **Prof. Rashmi Choudhary**
+- **Prof. Shweta Gupta**
+## Coordinator
+- **Prof. Arpit Deo**
+## Organization
+- **Medicaps University**
+
 ## 👩‍💻 Team
 
 - **Vaidika Kaul** – Researcher & Developer  
-- **Gautam Jagthap** – Researcher & Developer   
+- **Gautam Jagthap** – Researcher & Developer
 
 ## 🎯 Objectives
 
